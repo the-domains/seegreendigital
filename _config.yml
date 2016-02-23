@@ -1,0 +1,28 @@
+name: seegreendigital
+favicon: null
+layout_spectrum: 0.7630575397051871
+typography_spectrum: 0.15923597174696624
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7396684568375349
+  lightness: 0.7518256702460349
+  saturation: 0.13626232300885022
+  rhythmicContrast: 0.10664177895523608
+purpose: []
